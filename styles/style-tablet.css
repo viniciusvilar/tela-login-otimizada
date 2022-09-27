@@ -1,8 +1,4 @@
 @media screen and (min-width: 768px) and (max-width: 992px) {
-    body {
-        background-color: black;
-    }
-
     section#login {
         width: 80vw;
         height: 280px;
