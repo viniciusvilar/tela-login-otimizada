@@ -35,6 +35,7 @@ section {
 }
 
 div#image {
+    display: block;
     height: 200px;
     background-color: gray;
 
@@ -43,6 +44,7 @@ div#image {
 }
 
 div#form {
+    display: block;
     height: 315px;
     background-color: white;
     padding: 7px;
