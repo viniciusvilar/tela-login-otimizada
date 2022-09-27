@@ -1,0 +1,30 @@
+@media (min-width: 992px) {
+    section#login {
+        width: 950px;
+        height: 330px;
+    }
+
+    div#image {
+        float: right;
+        width: 50%;
+        height: 100%;
+
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    div#form {
+        width: 50%;
+        height: 100%;
+    }
+
+    div#form > h1 {
+        font-size: 32px;
+    }
+
+    div#form > p {
+        font-size: 16px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
