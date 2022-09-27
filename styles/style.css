@@ -23,7 +23,6 @@ main {
 section {
     width: 250px;
     height: 515px;
-    background-color: blueviolet;
     border-radius: 20px;
 
 
@@ -32,6 +31,8 @@ section {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    transition: width .3s, height .3s;
+    transition-timing-function: ease;
 }
 
 div#image {
